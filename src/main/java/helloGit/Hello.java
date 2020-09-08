@@ -9,5 +9,7 @@ public class Hello {
 		System.out.println("合并分支");
 		System.out.println("分支咋一样啊");
 		System.out.println("主干添加");
+		System.out.println("分支添加");
+		System.out.println("解决冲突");
 	}
 }
